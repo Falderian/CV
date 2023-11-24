@@ -1,3 +1,2 @@
-# rsschool-cv
-https://falderian.github.io/rsschool-cv/cv
-https://falderian.github.io/rsschool-cv/
+# Curriculum vitae
+https://falderian.github.io/CV
