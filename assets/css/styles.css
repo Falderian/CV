@@ -643,13 +643,13 @@ img {
 }
 
 
-.project-link {
+.project-title {
   color: #0366d6;
   text-decoration: none;
   cursor: pointer;
   transition: color 0.3s ease;
 }
 
-.project-link:hover {
+.project-title:hover {
   color: #0645ad;
 }
